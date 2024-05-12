@@ -1,0 +1,152 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\kontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\kontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\kontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\kontrol2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\kontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\kontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\kontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\kontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|c:\\users\\mehme\\source\\repos\\yemeksiparisi\\yemeksiparisi\\kontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{675FABA7-1F7B-49CA-8156-6FA9C1A55289}|YemekSiparisi\\YemekSiparisi.csproj|solutionrelative:yemeksiparisi\\kontrol3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Kontrol2.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol2.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Kontrol2.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol2.cs",
+              "RelativeToolTip": "YemekSiparisi\\Kontrol2.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAIwBUAAABUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T15:08:15.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Form1.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Form1.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Form1.cs",
+              "RelativeToolTip": "YemekSiparisi\\Form1.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAowDwAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:42:19.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Form1.Designer.cs",
+              "RelativeToolTip": "YemekSiparisi\\Form1.Designer.cs",
+              "ViewState": "AQIAAGYAAAAAAAAAAAAIwIMAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:57:51.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Kontrol3.cs",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol3.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Kontrol3.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol3.cs",
+              "RelativeToolTip": "YemekSiparisi\\Kontrol3.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAgwB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:37:56.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Kontrol3.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol3.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Kontrol3.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol3.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YemekSiparisi\\Kontrol3.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T14:30:48.647Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Kontrol2.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol2.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Kontrol2.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol2.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YemekSiparisi\\Kontrol2.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T13:19:13.31Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Kontrol1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol1.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Kontrol1.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Kontrol1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YemekSiparisi\\Kontrol1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:59:12.565Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Form1.cs",
+              "RelativeDocumentMoniker": "YemekSiparisi\\Form1.cs",
+              "ToolTip": "C:\\Users\\mehme\\source\\repos\\YemekSiparisi\\YemekSiparisi\\Form1.cs [Tasar\u0131m]",
+              "RelativeToolTip": "YemekSiparisi\\Form1.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-12T12:26:59.624Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

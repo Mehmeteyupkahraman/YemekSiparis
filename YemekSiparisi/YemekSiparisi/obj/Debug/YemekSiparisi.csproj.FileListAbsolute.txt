@@ -1,0 +1,13 @@
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\bin\Debug\YemekSiparisi.exe.config
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\bin\Debug\YemekSiparisi.exe
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\bin\Debug\YemekSiparisi.pdb
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.Form1.resources
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.Kontrol1.resources
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.Properties.Resources.resources
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.exe
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.pdb
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.Kontrol2.resources
+C:\Users\mehme\source\repos\YemekSiparisi\YemekSiparisi\obj\Debug\YemekSiparisi.Kontrol3.resources
